@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SmartGitTest
+namespace SmartGitTests
 {
     public class Class1
     {
+        public int Age { get; set; }
     }
 }
